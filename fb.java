@@ -1,4 +1,4 @@
-public class FizzBuzz {
+public class fb {
 	public static void main(String[] args) {
 		//harjoittelua, ei suurimmilta osin omaa koodia
 		for (int i = 1; i <= 100; i++) {
