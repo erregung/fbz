@@ -1,4 +1,4 @@
-public class fb {
+public class fizzbuzz {
 	public static void main(String[] args) {
 		//ruma mutta tein itse
 		int i = 0;
